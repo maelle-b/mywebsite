@@ -1,0 +1,26 @@
+/*import font*/
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap');
+
+/*import components*/
+@import url('components/container.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+/*general style*/ 
+h1 { font-family: 'Padauk', sans-serif;
+         font-size: 30px; 
+         font-weight: bold; }
+
+h2 { font-family: 'Padauk', sans-serif;
+         font-size: 20px; 
+         font-weight: bold;
+         text-align: center; }
+
+body,h3 { font-family:'Padauk', sans-serif;
+       font-size: 20px;  }
+
+a{ text-decoration: none;
+   color: black;  }
+
+a:hover { color: black; }
